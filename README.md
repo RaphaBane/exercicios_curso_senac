@@ -1,2 +1,2 @@
-# exercicios_curso_senac
-Exercícios do Curso Senac, Sessão de Back-End
+# exercicio_rota_com_django
+Exercício rota com django, Senac Back-End
